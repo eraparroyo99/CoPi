@@ -3,7 +3,7 @@
 
 2) The processes run on Docker containers. Install docker engine by following steps at [Docker Installation Guide for Ubuntu](https://docs.docker.com/engine/install/ubuntu/)
 
-3) Pull the following docker images used in this pipeline: 
+3) Pull the following docker images used in this pipeline (WARNING: large download): 
 ```
 docker pull staphb/pangolin:latest
 docker pull nextstrain/nextclade:latest
